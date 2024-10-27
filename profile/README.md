@@ -1,4 +1,4 @@
-# Heydo Tech
+# Heydo Tech <img src="logo.png" alt="Logo" width="30" height="30">
 
 Welcome to [Heydo Tech's](https://heydo.tech) official GitHub organization! We are a forward-thinking tech company focused on creating innovative software solutions to simplify and enhance everyday tasks for businesses and individuals.
 
